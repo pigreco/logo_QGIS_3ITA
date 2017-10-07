@@ -5,4 +5,8 @@ logo QGIS 3.x Italia
   
   ## SIMULAZIONE nella pagina FB
   
- <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/LOGO%20PAGINA%20FB.jpg" WIDTH = 600>
+ <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/LOGO%20PAGINA%20FB.jpg" WIDTH = 800>
+  
+  ##SIMULAZIONE sito
+  
+   <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/LOGO%20GRUPPO.jpg" WIDTH = 800>
