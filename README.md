@@ -3,7 +3,7 @@ logo QGIS 3.x Italia
 
 ## Marchio/logo ATTUALE
 
-<IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/MARCHIO_ATTUALE.png" WIDTH = 200> <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/qgis-logo%20ita_toto_QUADRATO_centrale.svg" WIDTH = 200>
+<IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/MARCHIO_ATTUALE.png" WIDTH = 200>  -----MAGARI COSI?---->    <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/qgis-logo%20ita_toto_QUADRATO_centrale.svg" WIDTH = 200>
   
 ## PROPOSTA MARCHIO/LOGO 
 
