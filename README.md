@@ -2,3 +2,7 @@
 logo QGIS 3.x Italia
 
 <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/logo_qgis3_ita.jpg" WIDTH = 300>
+  
+  ## SIMULAZIONE nella pagina FB
+  
+ <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/LOGO%20PAGINA%20FB.jpg" WIDTH = 600>
