@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4847714"
-     inkscape:cx="98.001449"
-     inkscape:cy="153.59728"
+     inkscape:zoom="3.5139974"
+     inkscape:cx="120.94488"
+     inkscape:cy="120.94488"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -119,21 +119,28 @@
        d="m 52.310293,85.163413 a 18.036092,18.437284 0 0 0 -0.823206,-0.406793 18.036092,18.437284 0 0 0 -1.693436,-0.631573 18.036092,18.437284 0 0 0 -1.747179,-0.456338 18.036092,18.437284 0 0 0 -1.782321,-0.275368 18.036092,18.437284 0 0 0 -1.800923,-0.09179 18.036092,18.437284 0 0 0 -1.275374,0.0459 18.036092,18.437284 0 0 0 -1.790073,0.222171 18.036092,18.437284 0 0 0 -1.759066,0.403665 18.036092,18.437284 0 0 0 -1.711006,0.580983 18.036092,18.437284 0 0 0 -1.128096,0.516315 v 33.334085 a 18.036092,18.437284 0 0 0 0.640271,0.31605 18.036092,18.437284 0 0 0 1.693437,0.63157 18.036092,18.437284 0 0 0 1.747179,0.45634 18.036092,18.437284 0 0 0 1.78232,0.27537 18.036092,18.437284 0 0 0 1.800408,0.0918 18.036092,18.437284 0 0 0 1.27589,-0.0459 18.036092,18.437284 0 0 0 1.790073,-0.22216 18.036092,18.437284 0 0 0 1.759066,-0.40367 18.036092,18.437284 0 0 0 1.710489,-0.58098 18.036092,18.437284 0 0 0 1.311547,-0.60029 z"
        id="path9208"
        inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path9212"
+       cx="44.375881"
+       cy="101.70274"
+       rx="18.247873"
+       ry="18.271542" />
     <g
        id="g4520"
        transform="matrix(0.40870582,0,0,0.40217812,-32.244893,32.978086)"
        style="stroke:#000000;stroke-width:0.12332619;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0">
       <polygon
          id="polygon3"
-         points="195,202.37 195,180 216.513,180 198.306,162 176,162 176,183.433 "
+         points="176,162 176,183.433 195,202.37 195,180 216.513,180 198.306,162 "
          style="fill:#ee7913;fill-opacity:1;stroke:none;stroke-width:0.12332619;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
       <polygon
          id="polygon31"
-         points="264,248 264,226.946 225.617,189 204,189 204,211.34 240.782,248 "
+         points="204,211.34 240.782,248 264,248 264,226.946 225.617,189 204,189 "
          style="fill:#93b023;fill-opacity:1;stroke:none;stroke-width:0.12332619;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
       <polygon
          id="polygon33"
-         points="204,211.34 204,189 225.617,189 216.513,180 195,180 195,202.37 "
+         points="195,180 195,202.37 204,211.34 204,189 225.617,189 216.513,180 "
          style="fill:#f0e64a;fill-opacity:1;stroke:none;stroke-width:0.12332619;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
       <path
          id="path40"
