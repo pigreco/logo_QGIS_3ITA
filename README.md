@@ -7,6 +7,6 @@ logo QGIS 3.x Italia
   
  <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/LOGO%20PAGINA%20FB.jpg" WIDTH = 800>
   
-  ##SIMULAZIONE sito
+  ## SIMULAZIONE sito
   
    <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/LOGO%20GRUPPO.jpg" WIDTH = 800>
