@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.5139974"
-     inkscape:cx="109.41955"
-     inkscape:cy="120.94488"
+     inkscape:zoom="2.4847714"
+     inkscape:cx="98.001449"
+     inkscape:cy="153.59728"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -114,17 +114,10 @@
        d="m 37.145861,84.871652 a 18.090449,18.320309 0 0 0 -1.164874,0.526821 18.090449,18.320309 0 0 0 -1.56788,0.911186 18.090449,18.320309 0 0 0 -1.47105,1.064987 18.090449,18.320309 0 0 0 -1.358548,1.208816 18.090449,18.320309 0 0 0 -1.231806,1.339758 18.090449,18.320309 0 0 0 -1.095103,1.457953 18.090449,18.320309 0 0 0 -0.945567,1.561889 18.090449,18.320309 0 0 0 -0.786085,1.648707 18.090449,18.320309 0 0 0 -0.619461,1.719921 18.090449,18.320309 0 0 0 -0.448576,1.774045 18.090449,18.320309 0 0 0 -0.269139,1.811053 18.090449,18.320309 0 0 0 -0.09113,1.829542 18.090449,18.320309 0 0 0 0.04558,1.29564 18.090449,18.320309 0 0 0 0.217899,1.81816 18.090449,18.320309 0 0 0 0.39588,1.78683 18.090449,18.320309 0 0 0 0.571052,1.73701 18.090449,18.320309 0 0 0 0.737663,1.67153 18.090449,18.320309 0 0 0 0.899996,1.58893 18.090449,18.320309 0 0 0 1.052377,1.48927 18.090449,18.320309 0 0 0 1.193359,1.37537 18.090449,18.320309 0 0 0 1.322944,1.24865 18.090449,18.320309 0 0 0 1.439718,1.10914 18.090449,18.320309 0 0 0 1.540827,0.95676 18.090449,18.320309 0 0 0 1.629123,0.79588 18.090449,18.320309 0 0 0 0.003,10e-4 z"
        id="path9158"
        inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.02;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9192"
-       width="15.510588"
-       height="40.432941"
-       x="36.7995"
-       y="81.701675" />
     <path
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.02;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       d="M 62.499568,101.72086 A 18.036092,18.268817 0 0 1 44.463476,119.98967 18.036092,18.268817 0 0 1 26.427384,101.72086 18.036092,18.268817 0 0 1 44.463476,83.452026 18.036092,18.268817 0 0 1 62.499568,101.72086 Z"
-       id="path9111-6-3"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.02;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 52.310293,85.163413 a 18.036092,18.437284 0 0 0 -0.823206,-0.406793 18.036092,18.437284 0 0 0 -1.693436,-0.631573 18.036092,18.437284 0 0 0 -1.747179,-0.456338 18.036092,18.437284 0 0 0 -1.782321,-0.275368 18.036092,18.437284 0 0 0 -1.800923,-0.09179 18.036092,18.437284 0 0 0 -1.275374,0.0459 18.036092,18.437284 0 0 0 -1.790073,0.222171 18.036092,18.437284 0 0 0 -1.759066,0.403665 18.036092,18.437284 0 0 0 -1.711006,0.580983 18.036092,18.437284 0 0 0 -1.128096,0.516315 v 33.334085 a 18.036092,18.437284 0 0 0 0.640271,0.31605 18.036092,18.437284 0 0 0 1.693437,0.63157 18.036092,18.437284 0 0 0 1.747179,0.45634 18.036092,18.437284 0 0 0 1.78232,0.27537 18.036092,18.437284 0 0 0 1.800408,0.0918 18.036092,18.437284 0 0 0 1.27589,-0.0459 18.036092,18.437284 0 0 0 1.790073,-0.22216 18.036092,18.437284 0 0 0 1.759066,-0.40367 18.036092,18.437284 0 0 0 1.710489,-0.58098 18.036092,18.437284 0 0 0 1.311547,-0.60029 z"
+       id="path9208"
        inkscape:connector-curvature="0" />
     <g
        id="g4520"
@@ -132,15 +125,15 @@
        style="stroke:#000000;stroke-width:0.12332619;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0">
       <polygon
          id="polygon3"
-         points="176,162 176,183.433 195,202.37 195,180 216.513,180 198.306,162 "
+         points="195,202.37 195,180 216.513,180 198.306,162 176,162 176,183.433 "
          style="fill:#ee7913;fill-opacity:1;stroke:none;stroke-width:0.12332619;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
       <polygon
          id="polygon31"
-         points="204,211.34 240.782,248 264,248 264,226.946 225.617,189 204,189 "
+         points="264,248 264,226.946 225.617,189 204,189 204,211.34 240.782,248 "
          style="fill:#93b023;fill-opacity:1;stroke:none;stroke-width:0.12332619;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
       <polygon
          id="polygon33"
-         points="195,180 195,202.37 204,211.34 204,189 225.617,189 216.513,180 "
+         points="204,211.34 204,189 225.617,189 216.513,180 195,180 195,202.37 "
          style="fill:#f0e64a;fill-opacity:1;stroke:none;stroke-width:0.12332619;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
       <path
          id="path40"
