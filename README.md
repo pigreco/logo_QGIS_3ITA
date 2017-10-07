@@ -16,3 +16,7 @@ logo QGIS 3.x Italia
   ## SIMULAZIONE sito
   
    <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/LOGO%20GRUPPO.jpg" WIDTH = 800>
+  
+  ## ALCUNI ESEMPI NEL MONDO
+  
+  <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/N20.jpg" WIDTH = 600>
