@@ -1,4 +1,4 @@
-# logo_QGIS_3ITA
+# marchio/logo QGIS 3 ITA
 logo QGIS 3.x Italia
 
 ## Marchio/logo ATTUALE
@@ -9,14 +9,14 @@ logo QGIS 3.x Italia
 
 <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/logo_qgis3_ita.jpg" WIDTH = 300>
   
-  ## SIMULAZIONE nella pagina FB
+## SIMULAZIONE nella pagina FB
   
  <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/LOGO%20PAGINA%20FB.jpg" WIDTH = 800>
   
-  ## SIMULAZIONE sito
+## SIMULAZIONE sito
   
    <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/LOGO%20GRUPPO.jpg" WIDTH = 800>
   
-  ## ALCUNI ESEMPI NEL MONDO
+## ALCUNI ESEMPI NEL MONDO
   
   <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/nel%20mondo.jpg" WIDTH = 600>
