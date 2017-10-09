@@ -19,4 +19,4 @@ logo QGIS 3.x Italia
   
 ## ALCUNI ESEMPI NEL MONDO
   
-  <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/nel%20mondo.jpg" WIDTH = 500>
+  <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/nel_mondo.jpg" WIDTH = 500>
