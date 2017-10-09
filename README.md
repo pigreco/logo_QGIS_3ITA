@@ -8,6 +8,10 @@
 ## PROPOSTA MARCHIO/LOGO 
 
 <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/logo_qgis3_ita.jpg" WIDTH = 300>
+
+## NELLE VARIE CONFIGURAZIONI
+
+<IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/logo_qgis3_ita.jpg" WIDTH = 300>
   
 ## SIMULAZIONE nella pagina FB
   
