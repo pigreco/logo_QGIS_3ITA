@@ -20,3 +20,5 @@
 ## ALCUNI ESEMPI NEL MONDO
   
   <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/nel_mondo.jpg" WIDTH = 500>
+  
+  [Visual Style Guide](https://www.qgis.org/en/site/getinvolved/styleguide.html)
