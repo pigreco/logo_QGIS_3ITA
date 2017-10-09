@@ -11,7 +11,7 @@
 
 ## NELLE VARIE CONFIGURAZIONI
 
-<IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/pigreco-logo.jpg" WIDTH = 500>
+<IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/pigreco-logo.jpg" WIDTH = 800>
   
 ## SIMULAZIONE nella pagina FB
   
