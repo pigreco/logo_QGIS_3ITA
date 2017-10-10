@@ -23,6 +23,6 @@
   
 ## ALCUNI ESEMPI NEL MONDO
   
-  <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/nel_mondo_Q.jpg" WIDTH = 500>
+  <IMG SRC = "https://github.com/pigreco/logo_QGIS_3ITA/blob/master/nel_mondo_Q.jpg" WIDTH = 800>
   
   [Visual Style Guide](https://www.qgis.org/en/site/getinvolved/styleguide.html)
