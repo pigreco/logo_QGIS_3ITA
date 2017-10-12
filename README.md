@@ -1,5 +1,7 @@
 # marchio/logo QGIS 3 ITA
 
+## la mia idea -- > è qui!!! [Wiki](https://github.com/pigreco/logo_QGIS_3ITA/wiki)
+
 
 ## Marchio/logo ATTUALE
 
