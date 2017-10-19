@@ -1,4 +1,4 @@
-#### Roba da matti
+#### Proposte per il nuovo logo QGIS Italia - si vota!!!
 <br>
 <span style="color:gray">questo non è Power Point</span>
 <br>
@@ -8,23 +8,22 @@
 
 +++
 
-[il mio canale YouTube](https://goo.gl/W7Oo3W)
+[Gruppo degli utenti italiani di QGIS](http://qgis.it/)
 
 +++
 
-[il mio blog](https://pigrecoinfinito.wordpress.com/)
+[Pagina ufficiale di QGIS Italia](https://pigrecoinfinito.wordpress.com/)
 
 +++
 
-# whoIam
+# Cosa vogliamo fare
 
-<span style="color:red">Sono un ingegnere con la passione del GIS</span>
-<span style="color:blue">Mi occupo di rilevamento e trattamento informatico
-dei dati relativi alla terra e all’ambiente.</span>
+<span style="color:red">Ci piacerebbe che decidessimo assieme per arrivare ad una scelta condivisa e partecipata del nuovo logo e rendere il processo il più trasparente possibile in modo che tutti possano contribuire alla scelta del logo stesso e creare, sulla base dello stesso, una serie di loghi minimal utilizzando varie dimensioni (in pixel) e vari colori come definiti qui:</span>
 
 ---
+# Logo attuale da cambiare
 
-![](./logo.png)
+![](./MARCHIO_ATTUALE.png)
 
 +++
 
@@ -32,17 +31,6 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 - FB: [Facebook](https://www.facebook.com/pigreco314)
 - repo: [https://github.com/pigreco/OpenData-da-riga-di-comando](https://github.com/pigreco/OpenData-da-riga-di-comando)
-
-+++
-
-## software che uso
-
-- QGIS
-- PostgreSQL/PostGIS
-- SQLite/SpatiaLite
-- GRASS GIS
-- SAGA GIS
-- ec...
 
 +++
 
