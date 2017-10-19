@@ -20,8 +20,8 @@ si vota!!!
 
 # Logo attuale da cambiare
 
-![](https://github.com/pigreco/logo_QGIS_3ITA/blob/master/MARCHIO_ATTUALE.png)
+![](./MARCHIO_ATTUALE.png)
 
 +++
 
-![](https://github.com/pigreco/logo_QGIS_3ITA/blob/master/proposte/pigreco/toto_pagina_sito.png)
+![](./proposte/pigreco/toto_pagina_sito.png)
