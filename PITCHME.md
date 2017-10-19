@@ -1,9 +1,11 @@
-## Proposte per il nuovo logo QGIS Italia 
-<br>
-<span style="color:gray"si vota!!!</span>
-<br>
+## Proposte per il nuovo logo QGIS Italia
+
+si vota!!!
+
 +++
+
 [Gruppo degli utenti italiani di QGIS](http://qgis.it/)
+
 +++
 
 [Pagina ufficiale di QGIS Italia](https://pigrecoinfinito.wordpress.com/)
