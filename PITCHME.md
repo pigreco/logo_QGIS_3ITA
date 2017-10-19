@@ -17,7 +17,7 @@
 +++
 # Logo attuale da cambiare
 
-![](./MARCHIO_ATTUALE.png)
+<img src="https://github.com/pigreco/logo_QGIS_3ITA/blob/master/MARCHIO_ATTUALE.png" width=300>
 
 +++
 
