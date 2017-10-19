@@ -23,6 +23,8 @@
 
 ![](./proposte/pigreco/logo-Q_3_ITA.svg)
 
++++
+
 ## Spazi
 
 - FB: [Facebook](https://www.facebook.com/pigreco314)
