@@ -24,4 +24,4 @@ si vota!!!
 
 +++
 
-![](./proposte/pigreco/toto_pagina_sito.png)
+![](./proposte/pigreco/toto_pagina_sito50.png)
