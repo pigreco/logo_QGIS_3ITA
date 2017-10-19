@@ -1,10 +1,9 @@
-#### Proposte per il nuovo logo QGIS Italia - si vota!!!
+### Proposte per il nuovo logo QGIS Italia - 
 <br>
-<span style="color:gray">questo non è Power Point</span>
+<span style="color:gray"si vota!!!</span>
 <br>
 <span style="color:gray"></span>
 <br>
-<span style="color:gray"><a href="https://twitter.com/totofiandaca?lang=it" target="_blank">@totofiandaca</a></span>
 
 +++
 
