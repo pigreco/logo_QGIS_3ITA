@@ -21,7 +21,7 @@
 
 +++
 
-![](./proposte/pigreco/logo-Q_3_ITA.svg)
+![](./proposte/pigreco/toto_pagina_sito.png)
 
 +++
 
