@@ -21,7 +21,7 @@
 
 +++
 
-![](./proposte/pigreco/toto_pagina_sito.png)
+<img src="https://github.com/pigreco/logo_QGIS_3ITA/blob/master/proposte/pigreco/toto_pagina_sito.png" width=400>
 
 +++
 
